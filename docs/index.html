@@ -3,16 +3,56 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>⚡ Boiler English — Neon Dashboard</title>
+<title>⚡ Boiler English Daily</title>
+
+<!-- Neon Favicon -->
+<link rel="icon" type="image/svg+xml" href="favicon.svg" />
+<link rel="apple-touch-icon" href="favicon.svg" />
+
+<meta name="description" content="Daily English trainer for boiler & pressure vessel industry" />
+<meta name="theme-color" content="#00fff9" />
+
 <link rel="stylesheet" href="style.css" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Rajdhani:wght@300;500;700&display=swap" rel="stylesheet" />
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
 </head>
 <body>
 <div class="bg-grid"></div>
 <div class="bg-glow"></div>
+<div class="bg-scanline"></div>
 
 <header class="hero">
+  <div class="logo-wrap">
+    <svg class="hero-logo" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <linearGradient id="neonGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#00fff9"/>
+          <stop offset="50%" stop-color="#a855f7"/>
+          <stop offset="100%" stop-color="#ff00e5"/>
+        </linearGradient>
+        <filter id="neonGlow" x="-50%" y="-50%" width="200%" height="200%">
+          <feGaussianBlur stdDeviation="2" result="blur"/>
+          <feMerge>
+            <feMergeNode in="blur"/>
+            <feMergeNode in="SourceGraphic"/>
+          </feMerge>
+        </filter>
+      </defs>
+      <!-- Boiler body -->
+      <rect x="25" y="30" width="50" height="55" rx="8" fill="none" stroke="url(#neonGrad)" stroke-width="3" filter="url(#neonGlow)"/>
+      <!-- Chimney -->
+      <rect x="60" y="10" width="10" height="20" rx="2" fill="none" stroke="url(#neonGrad)" stroke-width="3" filter="url(#neonGlow)"/>
+      <!-- Flame inside -->
+      <path d="M50 75 Q45 65 48 55 Q50 60 52 55 Q55 65 50 75 Z" fill="#ff00e5" filter="url(#neonGlow)"/>
+      <!-- Gauge -->
+      <circle cx="40" cy="45" r="5" fill="none" stroke="#00fff9" stroke-width="2" filter="url(#neonGlow)"/>
+      <circle cx="60" cy="45" r="5" fill="none" stroke="#00fff9" stroke-width="2" filter="url(#neonGlow)"/>
+      <!-- Pressure lines -->
+      <path d="M30 85 L20 95 M70 85 L80 95" stroke="#a855f7" stroke-width="2" filter="url(#neonGlow)"/>
+    </svg>
+  </div>
   <h1 class="neon-title" data-text="BOILER ENGLISH">BOILER ENGLISH</h1>
   <p class="subtitle">Daily Training • Boilers • Pressure Vessels • ASME</p>
   <div class="streak-badge">
@@ -107,11 +147,11 @@
     </div>
   </section>
 
-  <!-- Vocabulary List -->
+  <!-- Vocabulary Bank -->
   <section class="panel">
     <h2 class="panel-title">📚 Vocabulary Bank</h2>
     <div class="search-bar">
-      <input type="text" id="search" placeholder="Search words..." />
+      <input type="text" id="search" placeholder="🔍 Search words..." />
     </div>
     <div id="vocab-list" class="vocab-grid"></div>
   </section>
@@ -125,7 +165,7 @@
 </main>
 
 <footer>
-  <p>Built with ⚡ Neon • Powered by GitHub Actions & Gemini</p>
+  <p>⚡ Built with Neon • Powered by GitHub Actions & Gemini ⚡</p>
 </footer>
 
 <script src="app.js"></script>
