@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>⚡ Boiler English — Neon Dashboard</title>
+<link rel="stylesheet" href="style.css" />
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Rajdhani:wght@300;500;700&display=swap" rel="stylesheet" />
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+</head>
+<body>
+<div class="bg-grid"></div>
+<div class="bg-glow"></div>
+
+<header class="hero">
+  <h1 class="neon-title" data-text="BOILER ENGLISH">BOILER ENGLISH</h1>
+  <p class="subtitle">Daily Training • Boilers • Pressure Vessels • ASME</p>
+  <div class="streak-badge">
+    <span class="flame">🔥</span>
+    <span id="streak">0</span> day streak
+  </div>
+</header>
+
+<main class="container">
+
+  <!-- Stats -->
+  <section class="stats-grid">
+    <div class="stat-card neon-cyan">
+      <div class="stat-label">Total Words</div>
+      <div class="stat-value" id="stat-total">0</div>
+    </div>
+    <div class="stat-card neon-magenta">
+      <div class="stat-label">Mastered</div>
+      <div class="stat-value" id="stat-mastered">0</div>
+    </div>
+    <div class="stat-card neon-purple">
+      <div class="stat-label">Learning</div>
+      <div class="stat-value" id="stat-learning">0</div>
+    </div>
+    <div class="stat-card neon-green">
+      <div class="stat-label">Sessions</div>
+      <div class="stat-value" id="stat-sessions">0</div>
+    </div>
+  </section>
+
+  <!-- Today -->
+  <section class="panel">
+    <h2 class="panel-title">⚡ Today's Mission</h2>
+    <div class="today-grid">
+      <div class="today-card">
+        <div class="today-tag">TOPIC</div>
+        <div class="today-value" id="today-topic">—</div>
+      </div>
+      <div class="today-card">
+        <div class="today-tag">NEW WORDS</div>
+        <div class="today-value" id="today-newwords">0</div>
+      </div>
+      <div class="today-card">
+        <div class="today-tag">DUE REVIEWS</div>
+        <div class="today-value" id="today-due">0</div>
+      </div>
+      <div class="today-card">
+        <div class="today-tag">AVG SCORE</div>
+        <div class="today-value" id="today-avg">0</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Weekly Chart -->
+  <section class="panel">
+    <h2 class="panel-title">📊 Weekly Activity</h2>
+    <canvas id="weeklyChart" height="100"></canvas>
+  </section>
+
+  <!-- Listening -->
+  <section class="panel">
+    <h2 class="panel-title">🎧 Listening Exercise</h2>
+    <div id="listening-box">
+      <h3 id="listening-title" class="glow-text">—</h3>
+      <audio id="listening-audio" controls></audio>
+      <p id="listening-summary" class="muted"></p>
+      <details>
+        <summary>Show transcript & questions</summary>
+        <p id="listening-text"></p>
+        <div id="listening-questions"></div>
+      </details>
+    </div>
+  </section>
+
+  <!-- Scenario -->
+  <section class="panel">
+    <h2 class="panel-title">🎭 Daily Role-Play Scenario</h2>
+    <div id="scenario-box">
+      <h3 id="scenario-title" class="glow-magenta">—</h3>
+      <p id="scenario-context" class="muted"></p>
+      <blockquote id="scenario-opening" class="quote"></blockquote>
+      <div class="two-col">
+        <div>
+          <h4>Key Phrases</h4>
+          <ul id="scenario-phrases"></ul>
+        </div>
+        <div>
+          <h4>Vocabulary</h4>
+          <ul id="scenario-vocab"></ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Vocabulary List -->
+  <section class="panel">
+    <h2 class="panel-title">📚 Vocabulary Bank</h2>
+    <div class="search-bar">
+      <input type="text" id="search" placeholder="Search words..." />
+    </div>
+    <div id="vocab-list" class="vocab-grid"></div>
+  </section>
+
+  <!-- Due Reviews -->
+  <section class="panel">
+    <h2 class="panel-title">🔁 Due for Review</h2>
+    <div id="due-list" class="vocab-grid"></div>
+  </section>
+
+</main>
+
+<footer>
+  <p>Built with ⚡ Neon • Powered by GitHub Actions & Gemini</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

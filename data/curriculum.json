@@ -1,0 +1,10 @@
+{
+  "months": [
+    {"month": 1, "general": "Present/Past, daily conversation", "technical": "Boiler components, tools"},
+    {"month": 2, "general": "Future, Perfect", "technical": "Pressure vessel, welding, NDT"},
+    {"month": 3, "general": "Conditionals, modal verbs", "technical": "ASME Sections I, IV, VIII, IX"},
+    {"month": 4, "general": "Listening & fluency", "technical": "Hydrotest, safety valves"},
+    {"month": 5, "general": "Business English", "technical": "Emails, quotations, meetings"},
+    {"month": 6, "general": "Presentations", "technical": "Audit, commissioning, reports"}
+  ]
+}
