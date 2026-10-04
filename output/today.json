@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-04",
+  "topic": "ASME code compliance",
+  "new_words": 0,
+  "listening": {
+    "title": "-",
+    "text": "",
+    "questions": [],
+    "audio_file": null
+  },
+  "scenario": {
+    "title": "-",
+    "context_persian": "",
+    "opening_line": "",
+    "key_phrases": [],
+    "vocabulary": []
+  },
+  "due_words": [],
+  "stats": {
+    "total": 0,
+    "mastered": 0,
+    "learning": 0,
+    "new": 0,
+    "topics": 0
+  },
+  "summary": {
+    "streak": 1,
+    "total_sessions": 1,
+    "average_score": 100.0,
+    "last_session": "2026-10-04T19:03:14.422505"
+  },
+  "weekly": [
+    {
+      "date": "2026-09-28",
+      "score": 0
+    },
+    {
+      "date": "2026-09-29",
+      "score": 0
+    },
+    {
+      "date": "2026-09-30",
+      "score": 0
+    },
+    {
+      "date": "2026-10-01",
+      "score": 0
+    },
+    {
+      "date": "2026-10-02",
+      "score": 0
+    },
+    {
+      "date": "2026-10-03",
+      "score": 0
+    },
+    {
+      "date": "2026-10-04",
+      "score": 100
+    }
+  ]
+}
