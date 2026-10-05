@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-04",
-  "topic": "ASME code compliance",
+  "date": "2026-10-05",
+  "topic": "hydrostatic testing",
   "new_words": 0,
   "listening": {
     "title": "-",
@@ -24,16 +24,12 @@
     "topics": 0
   },
   "summary": {
-    "streak": 1,
-    "total_sessions": 1,
+    "streak": 2,
+    "total_sessions": 2,
     "average_score": 100.0,
-    "last_session": "2026-10-04T19:03:14.422505"
+    "last_session": "2026-10-05T10:44:01.012017"
   },
   "weekly": [
-    {
-      "date": "2026-09-28",
-      "score": 0
-    },
     {
       "date": "2026-09-29",
       "score": 0
@@ -56,6 +52,10 @@
     },
     {
       "date": "2026-10-04",
+      "score": 100
+    },
+    {
+      "date": "2026-10-05",
       "score": 100
     }
   ]

@@ -1,7 +1,7 @@
 {
-  "streak": 1,
-  "last_session": "2026-10-04T19:03:14.422505",
-  "total_sessions": 1,
+  "streak": 2,
+  "last_session": "2026-10-05T10:44:01.012017",
+  "total_sessions": 2,
   "sessions": [
     {
       "date": "2026-10-04",
@@ -13,9 +13,21 @@
         "due_reviews": 0
       },
       "timestamp": "2026-10-04T19:03:14.422511"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "daily",
+      "score": 100,
+      "details": {
+        "topic": "hydrostatic testing",
+        "new_words": 0,
+        "due_reviews": 0
+      },
+      "timestamp": "2026-10-05T10:44:01.012022"
     }
   ],
   "daily_scores": {
-    "2026-10-04": 100
+    "2026-10-04": 100,
+    "2026-10-05": 100
   }
 }
