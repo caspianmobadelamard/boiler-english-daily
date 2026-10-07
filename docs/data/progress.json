@@ -1,7 +1,7 @@
 {
-  "streak": 3,
-  "last_session": "2026-10-06T10:37:28.899528",
-  "total_sessions": 3,
+  "streak": 4,
+  "last_session": "2026-10-07T10:28:21.040786",
+  "total_sessions": 4,
   "sessions": [
     {
       "date": "2026-10-04",
@@ -35,11 +35,23 @@
         "due_reviews": 0
       },
       "timestamp": "2026-10-06T10:37:28.899535"
+    },
+    {
+      "date": "2026-10-07",
+      "type": "daily",
+      "score": 100,
+      "details": {
+        "topic": "materials (SA-516, SA-106)",
+        "new_words": 0,
+        "due_reviews": 0
+      },
+      "timestamp": "2026-10-07T10:28:21.040793"
     }
   ],
   "daily_scores": {
     "2026-10-04": 100,
     "2026-10-05": 100,
-    "2026-10-06": 100
+    "2026-10-06": 100,
+    "2026-10-07": 100
   }
 }
