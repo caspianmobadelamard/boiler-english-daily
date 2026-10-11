@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-11",
+  "topic": "heat exchanger design",
+  "new_words": 0,
+  "listening": {
+    "title": "-",
+    "text": "",
+    "questions": [],
+    "audio_file": null
+  },
+  "scenario": {
+    "title": "-",
+    "context_persian": "",
+    "opening_line": "",
+    "key_phrases": [],
+    "vocabulary": []
+  },
+  "due_words": [],
+  "stats": {
+    "total": 0,
+    "mastered": 0,
+    "learning": 0,
+    "new": 0,
+    "topics": 0
+  },
+  "summary": {
+    "streak": 8,
+    "total_sessions": 8,
+    "average_score": 100.0,
+    "last_session": "2026-10-11T10:12:58.312674"
+  },
+  "weekly": [
+    {
+      "date": "2026-10-05",
+      "score": 100
+    },
+    {
+      "date": "2026-10-06",
+      "score": 100
+    },
+    {
+      "date": "2026-10-07",
+      "score": 100
+    },
+    {
+      "date": "2026-10-08",
+      "score": 100
+    },
+    {
+      "date": "2026-10-09",
+      "score": 100
+    },
+    {
+      "date": "2026-10-10",
+      "score": 100
+    },
+    {
+      "date": "2026-10-11",
+      "score": 100
+    }
+  ]
+}
