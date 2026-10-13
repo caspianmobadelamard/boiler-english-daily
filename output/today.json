@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-12",
-  "topic": "pipe fittings and flanges",
+  "date": "2026-10-13",
+  "topic": "corrosion and material selection",
   "new_words": 0,
   "listening": {
     "title": "-",
@@ -24,16 +24,12 @@
     "topics": 0
   },
   "summary": {
-    "streak": 9,
-    "total_sessions": 9,
+    "streak": 10,
+    "total_sessions": 10,
     "average_score": 100.0,
-    "last_session": "2026-10-12T11:11:41.383970"
+    "last_session": "2026-10-13T10:52:56.514620"
   },
   "weekly": [
-    {
-      "date": "2026-10-06",
-      "score": 100
-    },
     {
       "date": "2026-10-07",
       "score": 100
@@ -56,6 +52,10 @@
     },
     {
       "date": "2026-10-12",
+      "score": 100
+    },
+    {
+      "date": "2026-10-13",
       "score": 100
     }
   ]
