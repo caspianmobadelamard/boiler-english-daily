@@ -1,7 +1,7 @@
 {
-  "streak": 11,
-  "last_session": "2026-10-14T08:55:39.622791",
-  "total_sessions": 11,
+  "streak": 12,
+  "last_session": "2026-10-15T08:29:49.468864",
+  "total_sessions": 12,
   "sessions": [
     {
       "date": "2026-10-04",
@@ -123,6 +123,17 @@
         "due_reviews": 0
       },
       "timestamp": "2026-10-14T08:55:39.622798"
+    },
+    {
+      "date": "2026-10-15",
+      "type": "daily",
+      "score": 100,
+      "details": {
+        "topic": "steam boiler components",
+        "new_words": 0,
+        "due_reviews": 0
+      },
+      "timestamp": "2026-10-15T08:29:49.468870"
     }
   ],
   "daily_scores": {
@@ -136,6 +147,7 @@
     "2026-10-11": 100,
     "2026-10-12": 100,
     "2026-10-13": 100,
-    "2026-10-14": 100
+    "2026-10-14": 100,
+    "2026-10-15": 100
   }
 }
