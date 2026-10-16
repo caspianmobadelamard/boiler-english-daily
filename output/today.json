@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-15",
-  "topic": "steam boiler components",
+  "date": "2026-10-16",
+  "topic": "hot water boiler operation",
   "new_words": 0,
   "listening": {
     "title": "-",
@@ -24,16 +24,12 @@
     "topics": 0
   },
   "summary": {
-    "streak": 12,
-    "total_sessions": 12,
+    "streak": 13,
+    "total_sessions": 13,
     "average_score": 100.0,
-    "last_session": "2026-10-15T08:29:49.468864"
+    "last_session": "2026-10-16T08:23:05.160998"
   },
   "weekly": [
-    {
-      "date": "2026-10-09",
-      "score": 100
-    },
     {
       "date": "2026-10-10",
       "score": 100
@@ -56,6 +52,10 @@
     },
     {
       "date": "2026-10-15",
+      "score": 100
+    },
+    {
+      "date": "2026-10-16",
       "score": 100
     }
   ]
