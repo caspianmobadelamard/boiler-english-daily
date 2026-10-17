@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-16",
-  "topic": "hot water boiler operation",
+  "date": "2026-10-17",
+  "topic": "pressure vessel fabrication",
   "new_words": 0,
   "listening": {
     "title": "-",
@@ -24,16 +24,12 @@
     "topics": 0
   },
   "summary": {
-    "streak": 13,
-    "total_sessions": 13,
+    "streak": 14,
+    "total_sessions": 14,
     "average_score": 100.0,
-    "last_session": "2026-10-16T08:23:05.160998"
+    "last_session": "2026-10-17T07:57:25.154730"
   },
   "weekly": [
-    {
-      "date": "2026-10-10",
-      "score": 100
-    },
     {
       "date": "2026-10-11",
       "score": 100
@@ -56,6 +52,10 @@
     },
     {
       "date": "2026-10-16",
+      "score": 100
+    },
+    {
+      "date": "2026-10-17",
       "score": 100
     }
   ]

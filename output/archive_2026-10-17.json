@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-17",
+  "topic": "pressure vessel fabrication",
+  "new_words": 0,
+  "listening": {
+    "title": "-",
+    "text": "",
+    "questions": [],
+    "audio_file": null
+  },
+  "scenario": {
+    "title": "-",
+    "context_persian": "",
+    "opening_line": "",
+    "key_phrases": [],
+    "vocabulary": []
+  },
+  "due_words": [],
+  "stats": {
+    "total": 0,
+    "mastered": 0,
+    "learning": 0,
+    "new": 0,
+    "topics": 0
+  },
+  "summary": {
+    "streak": 14,
+    "total_sessions": 14,
+    "average_score": 100.0,
+    "last_session": "2026-10-17T07:57:25.154730"
+  },
+  "weekly": [
+    {
+      "date": "2026-10-11",
+      "score": 100
+    },
+    {
+      "date": "2026-10-12",
+      "score": 100
+    },
+    {
+      "date": "2026-10-13",
+      "score": 100
+    },
+    {
+      "date": "2026-10-14",
+      "score": 100
+    },
+    {
+      "date": "2026-10-15",
+      "score": 100
+    },
+    {
+      "date": "2026-10-16",
+      "score": 100
+    },
+    {
+      "date": "2026-10-17",
+      "score": 100
+    }
+  ]
+}
