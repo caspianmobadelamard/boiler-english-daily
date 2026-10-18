@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-17",
-  "topic": "pressure vessel fabrication",
+  "date": "2026-10-18",
+  "topic": "welding procedures (WPS/PQR)",
   "new_words": 0,
   "listening": {
     "title": "-",
@@ -24,16 +24,12 @@
     "topics": 0
   },
   "summary": {
-    "streak": 14,
-    "total_sessions": 14,
+    "streak": 15,
+    "total_sessions": 15,
     "average_score": 100.0,
-    "last_session": "2026-10-17T07:57:25.154730"
+    "last_session": "2026-10-18T08:12:58.964048"
   },
   "weekly": [
-    {
-      "date": "2026-10-11",
-      "score": 100
-    },
     {
       "date": "2026-10-12",
       "score": 100
@@ -56,6 +52,10 @@
     },
     {
       "date": "2026-10-17",
+      "score": 100
+    },
+    {
+      "date": "2026-10-18",
       "score": 100
     }
   ]
