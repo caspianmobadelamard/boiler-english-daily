@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-18",
-  "topic": "welding procedures (WPS/PQR)",
+  "date": "2026-10-19",
+  "topic": "non-destructive testing (NDT)",
   "new_words": 0,
   "listening": {
     "title": "-",
@@ -24,16 +24,12 @@
     "topics": 0
   },
   "summary": {
-    "streak": 15,
-    "total_sessions": 15,
+    "streak": 16,
+    "total_sessions": 16,
     "average_score": 100.0,
-    "last_session": "2026-10-18T08:12:58.964048"
+    "last_session": "2026-10-19T09:10:45.264698"
   },
   "weekly": [
-    {
-      "date": "2026-10-12",
-      "score": 100
-    },
     {
       "date": "2026-10-13",
       "score": 100
@@ -56,6 +52,10 @@
     },
     {
       "date": "2026-10-18",
+      "score": 100
+    },
+    {
+      "date": "2026-10-19",
       "score": 100
     }
   ]
