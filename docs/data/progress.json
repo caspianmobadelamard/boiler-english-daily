@@ -1,7 +1,7 @@
 {
-  "streak": 16,
-  "last_session": "2026-10-19T09:10:45.264698",
-  "total_sessions": 16,
+  "streak": 17,
+  "last_session": "2026-10-20T08:46:12.300469",
+  "total_sessions": 17,
   "sessions": [
     {
       "date": "2026-10-04",
@@ -178,6 +178,17 @@
         "due_reviews": 0
       },
       "timestamp": "2026-10-19T09:10:45.264704"
+    },
+    {
+      "date": "2026-10-20",
+      "type": "daily",
+      "score": 100,
+      "details": {
+        "topic": "ASME code compliance",
+        "new_words": 0,
+        "due_reviews": 0
+      },
+      "timestamp": "2026-10-20T08:46:12.300476"
     }
   ],
   "daily_scores": {
@@ -196,6 +207,7 @@
     "2026-10-16": 100,
     "2026-10-17": 100,
     "2026-10-18": 100,
-    "2026-10-19": 100
+    "2026-10-19": 100,
+    "2026-10-20": 100
   }
 }
