@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-21",
+  "topic": "hydrostatic testing",
+  "new_words": 0,
+  "listening": {
+    "title": "-",
+    "text": "",
+    "questions": [],
+    "audio_file": null
+  },
+  "scenario": {
+    "title": "-",
+    "context_persian": "",
+    "opening_line": "",
+    "key_phrases": [],
+    "vocabulary": []
+  },
+  "due_words": [],
+  "stats": {
+    "total": 0,
+    "mastered": 0,
+    "learning": 0,
+    "new": 0,
+    "topics": 0
+  },
+  "summary": {
+    "streak": 18,
+    "total_sessions": 18,
+    "average_score": 100.0,
+    "last_session": "2026-10-21T08:46:44.353713"
+  },
+  "weekly": [
+    {
+      "date": "2026-10-15",
+      "score": 100
+    },
+    {
+      "date": "2026-10-16",
+      "score": 100
+    },
+    {
+      "date": "2026-10-17",
+      "score": 100
+    },
+    {
+      "date": "2026-10-18",
+      "score": 100
+    },
+    {
+      "date": "2026-10-19",
+      "score": 100
+    },
+    {
+      "date": "2026-10-20",
+      "score": 100
+    },
+    {
+      "date": "2026-10-21",
+      "score": 100
+    }
+  ]
+}
