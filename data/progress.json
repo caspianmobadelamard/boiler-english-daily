@@ -1,7 +1,7 @@
 {
-  "streak": 18,
-  "last_session": "2026-10-21T08:46:44.353713",
-  "total_sessions": 18,
+  "streak": 19,
+  "last_session": "2026-10-22T08:48:37.507510",
+  "total_sessions": 19,
   "sessions": [
     {
       "date": "2026-10-04",
@@ -200,6 +200,17 @@
         "due_reviews": 0
       },
       "timestamp": "2026-10-21T08:46:44.353717"
+    },
+    {
+      "date": "2026-10-22",
+      "type": "daily",
+      "score": 100,
+      "details": {
+        "topic": "boiler safety valves",
+        "new_words": 0,
+        "due_reviews": 0
+      },
+      "timestamp": "2026-10-22T08:48:37.507515"
     }
   ],
   "daily_scores": {
@@ -220,6 +231,7 @@
     "2026-10-18": 100,
     "2026-10-19": 100,
     "2026-10-20": 100,
-    "2026-10-21": 100
+    "2026-10-21": 100,
+    "2026-10-22": 100
   }
 }
