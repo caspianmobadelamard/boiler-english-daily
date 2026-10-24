@@ -1,7 +1,7 @@
 {
-  "streak": 20,
-  "last_session": "2026-10-23T08:44:14.019035",
-  "total_sessions": 20,
+  "streak": 21,
+  "last_session": "2026-10-24T08:19:15.459274",
+  "total_sessions": 21,
   "sessions": [
     {
       "date": "2026-10-04",
@@ -222,6 +222,17 @@
         "due_reviews": 0
       },
       "timestamp": "2026-10-23T08:44:14.019039"
+    },
+    {
+      "date": "2026-10-24",
+      "type": "daily",
+      "score": 100,
+      "details": {
+        "topic": "burner and combustion systems",
+        "new_words": 0,
+        "due_reviews": 0
+      },
+      "timestamp": "2026-10-24T08:19:15.459277"
     }
   ],
   "daily_scores": {
@@ -244,6 +255,7 @@
     "2026-10-20": 100,
     "2026-10-21": 100,
     "2026-10-22": 100,
-    "2026-10-23": 100
+    "2026-10-23": 100,
+    "2026-10-24": 100
   }
 }

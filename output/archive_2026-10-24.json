@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-24",
+  "topic": "burner and combustion systems",
+  "new_words": 0,
+  "listening": {
+    "title": "-",
+    "text": "",
+    "questions": [],
+    "audio_file": null
+  },
+  "scenario": {
+    "title": "-",
+    "context_persian": "",
+    "opening_line": "",
+    "key_phrases": [],
+    "vocabulary": []
+  },
+  "due_words": [],
+  "stats": {
+    "total": 0,
+    "mastered": 0,
+    "learning": 0,
+    "new": 0,
+    "topics": 0
+  },
+  "summary": {
+    "streak": 21,
+    "total_sessions": 21,
+    "average_score": 100.0,
+    "last_session": "2026-10-24T08:19:15.459274"
+  },
+  "weekly": [
+    {
+      "date": "2026-10-18",
+      "score": 100
+    },
+    {
+      "date": "2026-10-19",
+      "score": 100
+    },
+    {
+      "date": "2026-10-20",
+      "score": 100
+    },
+    {
+      "date": "2026-10-21",
+      "score": 100
+    },
+    {
+      "date": "2026-10-22",
+      "score": 100
+    },
+    {
+      "date": "2026-10-23",
+      "score": 100
+    },
+    {
+      "date": "2026-10-24",
+      "score": 100
+    }
+  ]
+}
