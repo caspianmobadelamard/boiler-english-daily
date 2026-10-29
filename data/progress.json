@@ -1,7 +1,7 @@
 {
-  "streak": 25,
-  "last_session": "2026-10-28T09:54:45.393354",
-  "total_sessions": 25,
+  "streak": 26,
+  "last_session": "2026-10-29T10:17:16.789308",
+  "total_sessions": 26,
   "sessions": [
     {
       "date": "2026-10-04",
@@ -277,6 +277,17 @@
         "due_reviews": 0
       },
       "timestamp": "2026-10-28T09:54:45.393359"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "daily",
+      "score": 100,
+      "details": {
+        "topic": "corrosion and material selection",
+        "new_words": 0,
+        "due_reviews": 0
+      },
+      "timestamp": "2026-10-29T10:17:16.789314"
     }
   ],
   "daily_scores": {
@@ -304,6 +315,7 @@
     "2026-10-25": 100,
     "2026-10-26": 100,
     "2026-10-27": 100,
-    "2026-10-28": 100
+    "2026-10-28": 100,
+    "2026-10-29": 100
   }
 }
