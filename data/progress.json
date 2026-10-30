@@ -1,7 +1,7 @@
 {
-  "streak": 26,
-  "last_session": "2026-10-29T10:17:16.789308",
-  "total_sessions": 26,
+  "streak": 27,
+  "last_session": "2026-10-30T10:19:22.923496",
+  "total_sessions": 27,
   "sessions": [
     {
       "date": "2026-10-04",
@@ -288,6 +288,17 @@
         "due_reviews": 0
       },
       "timestamp": "2026-10-29T10:17:16.789314"
+    },
+    {
+      "date": "2026-10-30",
+      "type": "daily",
+      "score": 100,
+      "details": {
+        "topic": "boiler efficiency and performance",
+        "new_words": 0,
+        "due_reviews": 0
+      },
+      "timestamp": "2026-10-30T10:19:22.923502"
     }
   ],
   "daily_scores": {
@@ -316,6 +327,7 @@
     "2026-10-26": 100,
     "2026-10-27": 100,
     "2026-10-28": 100,
-    "2026-10-29": 100
+    "2026-10-29": 100,
+    "2026-10-30": 100
   }
 }
