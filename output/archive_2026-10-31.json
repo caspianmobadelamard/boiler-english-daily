@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-31",
+  "topic": "steam boiler components",
+  "new_words": 0,
+  "listening": {
+    "title": "-",
+    "text": "",
+    "questions": [],
+    "audio_file": null
+  },
+  "scenario": {
+    "title": "-",
+    "context_persian": "",
+    "opening_line": "",
+    "key_phrases": [],
+    "vocabulary": []
+  },
+  "due_words": [],
+  "stats": {
+    "total": 0,
+    "mastered": 0,
+    "learning": 0,
+    "new": 0,
+    "topics": 0
+  },
+  "summary": {
+    "streak": 28,
+    "total_sessions": 28,
+    "average_score": 100.0,
+    "last_session": "2026-10-31T09:51:49.573838"
+  },
+  "weekly": [
+    {
+      "date": "2026-10-25",
+      "score": 100
+    },
+    {
+      "date": "2026-10-26",
+      "score": 100
+    },
+    {
+      "date": "2026-10-27",
+      "score": 100
+    },
+    {
+      "date": "2026-10-28",
+      "score": 100
+    },
+    {
+      "date": "2026-10-29",
+      "score": 100
+    },
+    {
+      "date": "2026-10-30",
+      "score": 100
+    },
+    {
+      "date": "2026-10-31",
+      "score": 100
+    }
+  ]
+}
