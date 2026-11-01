@@ -1,7 +1,7 @@
 {
-  "streak": 28,
-  "last_session": "2026-10-31T09:51:49.573838",
-  "total_sessions": 28,
+  "streak": 29,
+  "last_session": "2026-11-01T10:42:48.258116",
+  "total_sessions": 29,
   "sessions": [
     {
       "date": "2026-10-04",
@@ -310,6 +310,17 @@
         "due_reviews": 0
       },
       "timestamp": "2026-10-31T09:51:49.573844"
+    },
+    {
+      "date": "2026-11-01",
+      "type": "daily",
+      "score": 100,
+      "details": {
+        "topic": "hot water boiler operation",
+        "new_words": 0,
+        "due_reviews": 0
+      },
+      "timestamp": "2026-11-01T10:42:48.258122"
     }
   ],
   "daily_scores": {
@@ -340,6 +351,7 @@
     "2026-10-28": 100,
     "2026-10-29": 100,
     "2026-10-30": 100,
-    "2026-10-31": 100
+    "2026-10-31": 100,
+    "2026-11-01": 100
   }
 }
