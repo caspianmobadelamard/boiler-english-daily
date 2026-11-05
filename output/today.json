@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-04",
-  "topic": "non-destructive testing (NDT)",
+  "date": "2026-11-05",
+  "topic": "ASME code compliance",
   "new_words": 0,
   "listening": {
     "title": "-",
@@ -24,16 +24,12 @@
     "topics": 0
   },
   "summary": {
-    "streak": 32,
-    "total_sessions": 32,
+    "streak": 33,
+    "total_sessions": 33,
     "average_score": 100.0,
-    "last_session": "2026-11-04T11:21:37.861849"
+    "last_session": "2026-11-05T11:19:11.980837"
   },
   "weekly": [
-    {
-      "date": "2026-10-29",
-      "score": 100
-    },
     {
       "date": "2026-10-30",
       "score": 100
@@ -56,6 +52,10 @@
     },
     {
       "date": "2026-11-04",
+      "score": 100
+    },
+    {
+      "date": "2026-11-05",
       "score": 100
     }
   ]
