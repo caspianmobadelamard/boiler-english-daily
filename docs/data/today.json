@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-06",
-  "topic": "hydrostatic testing",
+  "date": "2026-11-07",
+  "topic": "boiler safety valves",
   "new_words": 0,
   "listening": {
     "title": "-",
@@ -24,16 +24,12 @@
     "topics": 0
   },
   "summary": {
-    "streak": 34,
-    "total_sessions": 34,
+    "streak": 35,
+    "total_sessions": 35,
     "average_score": 100.0,
-    "last_session": "2026-11-06T11:17:27.229477"
+    "last_session": "2026-11-07T10:31:51.655691"
   },
   "weekly": [
-    {
-      "date": "2026-10-31",
-      "score": 100
-    },
     {
       "date": "2026-11-01",
       "score": 100
@@ -56,6 +52,10 @@
     },
     {
       "date": "2026-11-06",
+      "score": 100
+    },
+    {
+      "date": "2026-11-07",
       "score": 100
     }
   ]
