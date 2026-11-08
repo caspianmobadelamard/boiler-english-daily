@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-07",
-  "topic": "boiler safety valves",
+  "date": "2026-11-08",
+  "topic": "materials (SA-516, SA-106)",
   "new_words": 0,
   "listening": {
     "title": "-",
@@ -24,16 +24,12 @@
     "topics": 0
   },
   "summary": {
-    "streak": 35,
-    "total_sessions": 35,
+    "streak": 36,
+    "total_sessions": 36,
     "average_score": 100.0,
-    "last_session": "2026-11-07T10:31:51.655691"
+    "last_session": "2026-11-08T10:38:59.640814"
   },
   "weekly": [
-    {
-      "date": "2026-11-01",
-      "score": 100
-    },
     {
       "date": "2026-11-02",
       "score": 100
@@ -56,6 +52,10 @@
     },
     {
       "date": "2026-11-07",
+      "score": 100
+    },
+    {
+      "date": "2026-11-08",
       "score": 100
     }
   ]
