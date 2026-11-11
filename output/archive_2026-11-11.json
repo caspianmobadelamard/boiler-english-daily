@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-11",
+  "topic": "inspection and quality control",
+  "new_words": 0,
+  "listening": {
+    "title": "-",
+    "text": "",
+    "questions": [],
+    "audio_file": null
+  },
+  "scenario": {
+    "title": "-",
+    "context_persian": "",
+    "opening_line": "",
+    "key_phrases": [],
+    "vocabulary": []
+  },
+  "due_words": [],
+  "stats": {
+    "total": 0,
+    "mastered": 0,
+    "learning": 0,
+    "new": 0,
+    "topics": 0
+  },
+  "summary": {
+    "streak": 39,
+    "total_sessions": 39,
+    "average_score": 100.0,
+    "last_session": "2026-11-11T11:18:32.971581"
+  },
+  "weekly": [
+    {
+      "date": "2026-11-05",
+      "score": 100
+    },
+    {
+      "date": "2026-11-06",
+      "score": 100
+    },
+    {
+      "date": "2026-11-07",
+      "score": 100
+    },
+    {
+      "date": "2026-11-08",
+      "score": 100
+    },
+    {
+      "date": "2026-11-09",
+      "score": 100
+    },
+    {
+      "date": "2026-11-10",
+      "score": 100
+    },
+    {
+      "date": "2026-11-11",
+      "score": 100
+    }
+  ]
+}

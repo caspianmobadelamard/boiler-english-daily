@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-10",
-  "topic": "feedwater and blowdown",
+  "date": "2026-11-11",
+  "topic": "inspection and quality control",
   "new_words": 0,
   "listening": {
     "title": "-",
@@ -24,16 +24,12 @@
     "topics": 0
   },
   "summary": {
-    "streak": 38,
-    "total_sessions": 38,
+    "streak": 39,
+    "total_sessions": 39,
     "average_score": 100.0,
-    "last_session": "2026-11-10T11:29:05.474668"
+    "last_session": "2026-11-11T11:18:32.971581"
   },
   "weekly": [
-    {
-      "date": "2026-11-04",
-      "score": 100
-    },
     {
       "date": "2026-11-05",
       "score": 100
@@ -56,6 +52,10 @@
     },
     {
       "date": "2026-11-10",
+      "score": 100
+    },
+    {
+      "date": "2026-11-11",
       "score": 100
     }
   ]

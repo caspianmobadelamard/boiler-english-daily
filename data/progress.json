@@ -1,7 +1,7 @@
 {
-  "streak": 38,
-  "last_session": "2026-11-10T11:29:05.474668",
-  "total_sessions": 38,
+  "streak": 39,
+  "last_session": "2026-11-11T11:18:32.971581",
+  "total_sessions": 39,
   "sessions": [
     {
       "date": "2026-10-04",
@@ -420,6 +420,17 @@
         "due_reviews": 0
       },
       "timestamp": "2026-11-10T11:29:05.474674"
+    },
+    {
+      "date": "2026-11-11",
+      "type": "daily",
+      "score": 100,
+      "details": {
+        "topic": "inspection and quality control",
+        "new_words": 0,
+        "due_reviews": 0
+      },
+      "timestamp": "2026-11-11T11:18:32.971588"
     }
   ],
   "daily_scores": {
@@ -460,6 +471,7 @@
     "2026-11-07": 100,
     "2026-11-08": 100,
     "2026-11-09": 100,
-    "2026-11-10": 100
+    "2026-11-10": 100,
+    "2026-11-11": 100
   }
 }
