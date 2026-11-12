@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-11",
-  "topic": "inspection and quality control",
+  "date": "2026-11-12",
+  "topic": "heat exchanger design",
   "new_words": 0,
   "listening": {
     "title": "-",
@@ -24,16 +24,12 @@
     "topics": 0
   },
   "summary": {
-    "streak": 39,
-    "total_sessions": 39,
+    "streak": 40,
+    "total_sessions": 40,
     "average_score": 100.0,
-    "last_session": "2026-11-11T11:18:32.971581"
+    "last_session": "2026-11-12T11:38:01.088194"
   },
   "weekly": [
-    {
-      "date": "2026-11-05",
-      "score": 100
-    },
     {
       "date": "2026-11-06",
       "score": 100
@@ -56,6 +52,10 @@
     },
     {
       "date": "2026-11-11",
+      "score": 100
+    },
+    {
+      "date": "2026-11-12",
       "score": 100
     }
   ]

@@ -1,7 +1,7 @@
 {
-  "streak": 39,
-  "last_session": "2026-11-11T11:18:32.971581",
-  "total_sessions": 39,
+  "streak": 40,
+  "last_session": "2026-11-12T11:38:01.088194",
+  "total_sessions": 40,
   "sessions": [
     {
       "date": "2026-10-04",
@@ -431,6 +431,17 @@
         "due_reviews": 0
       },
       "timestamp": "2026-11-11T11:18:32.971588"
+    },
+    {
+      "date": "2026-11-12",
+      "type": "daily",
+      "score": 100,
+      "details": {
+        "topic": "heat exchanger design",
+        "new_words": 0,
+        "due_reviews": 0
+      },
+      "timestamp": "2026-11-12T11:38:01.088201"
     }
   ],
   "daily_scores": {
@@ -472,6 +483,7 @@
     "2026-11-08": 100,
     "2026-11-09": 100,
     "2026-11-10": 100,
-    "2026-11-11": 100
+    "2026-11-11": 100,
+    "2026-11-12": 100
   }
 }
