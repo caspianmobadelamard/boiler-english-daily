@@ -1,7 +1,7 @@
 {
-  "streak": 40,
-  "last_session": "2026-11-12T11:38:01.088194",
-  "total_sessions": 40,
+  "streak": 41,
+  "last_session": "2026-11-13T11:21:57.575338",
+  "total_sessions": 41,
   "sessions": [
     {
       "date": "2026-10-04",
@@ -442,6 +442,17 @@
         "due_reviews": 0
       },
       "timestamp": "2026-11-12T11:38:01.088201"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "daily",
+      "score": 100,
+      "details": {
+        "topic": "pipe fittings and flanges",
+        "new_words": 0,
+        "due_reviews": 0
+      },
+      "timestamp": "2026-11-13T11:21:57.575344"
     }
   ],
   "daily_scores": {
@@ -484,6 +495,7 @@
     "2026-11-09": 100,
     "2026-11-10": 100,
     "2026-11-11": 100,
-    "2026-11-12": 100
+    "2026-11-12": 100,
+    "2026-11-13": 100
   }
 }

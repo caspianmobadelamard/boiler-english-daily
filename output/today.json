@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-12",
-  "topic": "heat exchanger design",
+  "date": "2026-11-13",
+  "topic": "pipe fittings and flanges",
   "new_words": 0,
   "listening": {
     "title": "-",
@@ -24,16 +24,12 @@
     "topics": 0
   },
   "summary": {
-    "streak": 40,
-    "total_sessions": 40,
+    "streak": 41,
+    "total_sessions": 41,
     "average_score": 100.0,
-    "last_session": "2026-11-12T11:38:01.088194"
+    "last_session": "2026-11-13T11:21:57.575338"
   },
   "weekly": [
-    {
-      "date": "2026-11-06",
-      "score": 100
-    },
     {
       "date": "2026-11-07",
       "score": 100
@@ -56,6 +52,10 @@
     },
     {
       "date": "2026-11-12",
+      "score": 100
+    },
+    {
+      "date": "2026-11-13",
       "score": 100
     }
   ]
