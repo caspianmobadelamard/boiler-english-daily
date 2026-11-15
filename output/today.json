@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-14",
-  "topic": "corrosion and material selection",
+  "date": "2026-11-15",
+  "topic": "boiler efficiency and performance",
   "new_words": 0,
   "listening": {
     "title": "-",
@@ -24,16 +24,12 @@
     "topics": 0
   },
   "summary": {
-    "streak": 42,
-    "total_sessions": 42,
+    "streak": 43,
+    "total_sessions": 43,
     "average_score": 100.0,
-    "last_session": "2026-11-14T10:45:05.486456"
+    "last_session": "2026-11-15T11:20:17.917362"
   },
   "weekly": [
-    {
-      "date": "2026-11-08",
-      "score": 100
-    },
     {
       "date": "2026-11-09",
       "score": 100
@@ -56,6 +52,10 @@
     },
     {
       "date": "2026-11-14",
+      "score": 100
+    },
+    {
+      "date": "2026-11-15",
       "score": 100
     }
   ]
