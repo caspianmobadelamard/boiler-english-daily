@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-15",
-  "topic": "boiler efficiency and performance",
+  "date": "2026-11-16",
+  "topic": "steam boiler components",
   "new_words": 0,
   "listening": {
     "title": "-",
@@ -24,16 +24,12 @@
     "topics": 0
   },
   "summary": {
-    "streak": 43,
-    "total_sessions": 43,
+    "streak": 44,
+    "total_sessions": 44,
     "average_score": 100.0,
-    "last_session": "2026-11-15T11:20:17.917362"
+    "last_session": "2026-11-16T11:52:28.766764"
   },
   "weekly": [
-    {
-      "date": "2026-11-09",
-      "score": 100
-    },
     {
       "date": "2026-11-10",
       "score": 100
@@ -56,6 +52,10 @@
     },
     {
       "date": "2026-11-15",
+      "score": 100
+    },
+    {
+      "date": "2026-11-16",
       "score": 100
     }
   ]
