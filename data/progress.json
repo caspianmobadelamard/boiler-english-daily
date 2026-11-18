@@ -1,7 +1,7 @@
 {
-  "streak": 45,
-  "last_session": "2026-11-17T12:14:43.164469",
-  "total_sessions": 45,
+  "streak": 46,
+  "last_session": "2026-11-18T12:01:55.298008",
+  "total_sessions": 46,
   "sessions": [
     {
       "date": "2026-10-04",
@@ -497,6 +497,17 @@
         "due_reviews": 0
       },
       "timestamp": "2026-11-17T12:14:43.164475"
+    },
+    {
+      "date": "2026-11-18",
+      "type": "daily",
+      "score": 100,
+      "details": {
+        "topic": "pressure vessel fabrication",
+        "new_words": 0,
+        "due_reviews": 0
+      },
+      "timestamp": "2026-11-18T12:01:55.298012"
     }
   ],
   "daily_scores": {
@@ -544,6 +555,7 @@
     "2026-11-14": 100,
     "2026-11-15": 100,
     "2026-11-16": 100,
-    "2026-11-17": 100
+    "2026-11-17": 100,
+    "2026-11-18": 100
   }
 }
