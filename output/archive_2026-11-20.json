@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-20",
+  "topic": "non-destructive testing (NDT)",
+  "new_words": 0,
+  "listening": {
+    "title": "-",
+    "text": "",
+    "questions": [],
+    "audio_file": null
+  },
+  "scenario": {
+    "title": "-",
+    "context_persian": "",
+    "opening_line": "",
+    "key_phrases": [],
+    "vocabulary": []
+  },
+  "due_words": [],
+  "stats": {
+    "total": 0,
+    "mastered": 0,
+    "learning": 0,
+    "new": 0,
+    "topics": 0
+  },
+  "summary": {
+    "streak": 48,
+    "total_sessions": 48,
+    "average_score": 100.0,
+    "last_session": "2026-11-20T11:59:13.227204"
+  },
+  "weekly": [
+    {
+      "date": "2026-11-14",
+      "score": 100
+    },
+    {
+      "date": "2026-11-15",
+      "score": 100
+    },
+    {
+      "date": "2026-11-16",
+      "score": 100
+    },
+    {
+      "date": "2026-11-17",
+      "score": 100
+    },
+    {
+      "date": "2026-11-18",
+      "score": 100
+    },
+    {
+      "date": "2026-11-19",
+      "score": 100
+    },
+    {
+      "date": "2026-11-20",
+      "score": 100
+    }
+  ]
+}
