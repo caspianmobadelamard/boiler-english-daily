@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-24",
-  "topic": "materials (SA-516, SA-106)",
+  "date": "2026-11-25",
+  "topic": "burner and combustion systems",
   "new_words": 0,
   "listening": {
     "title": "-",
@@ -24,16 +24,12 @@
     "topics": 0
   },
   "summary": {
-    "streak": 52,
-    "total_sessions": 52,
+    "streak": 53,
+    "total_sessions": 53,
     "average_score": 100.0,
-    "last_session": "2026-11-24T14:04:31.888574"
+    "last_session": "2026-11-25T13:18:48.101858"
   },
   "weekly": [
-    {
-      "date": "2026-11-18",
-      "score": 100
-    },
     {
       "date": "2026-11-19",
       "score": 100
@@ -56,6 +52,10 @@
     },
     {
       "date": "2026-11-24",
+      "score": 100
+    },
+    {
+      "date": "2026-11-25",
       "score": 100
     }
   ]
