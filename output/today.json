@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-25",
-  "topic": "burner and combustion systems",
+  "date": "2026-11-26",
+  "topic": "feedwater and blowdown",
   "new_words": 0,
   "listening": {
     "title": "-",
@@ -24,16 +24,12 @@
     "topics": 0
   },
   "summary": {
-    "streak": 53,
-    "total_sessions": 53,
+    "streak": 54,
+    "total_sessions": 54,
     "average_score": 100.0,
-    "last_session": "2026-11-25T13:18:48.101858"
+    "last_session": "2026-11-26T12:58:25.563844"
   },
   "weekly": [
-    {
-      "date": "2026-11-19",
-      "score": 100
-    },
     {
       "date": "2026-11-20",
       "score": 100
@@ -56,6 +52,10 @@
     },
     {
       "date": "2026-11-25",
+      "score": 100
+    },
+    {
+      "date": "2026-11-26",
       "score": 100
     }
   ]

@@ -1,7 +1,7 @@
 {
-  "streak": 53,
-  "last_session": "2026-11-25T13:18:48.101858",
-  "total_sessions": 53,
+  "streak": 54,
+  "last_session": "2026-11-26T12:58:25.563844",
+  "total_sessions": 54,
   "sessions": [
     {
       "date": "2026-10-04",
@@ -585,6 +585,17 @@
         "due_reviews": 0
       },
       "timestamp": "2026-11-25T13:18:48.101865"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "daily",
+      "score": 100,
+      "details": {
+        "topic": "feedwater and blowdown",
+        "new_words": 0,
+        "due_reviews": 0
+      },
+      "timestamp": "2026-11-26T12:58:25.563848"
     }
   ],
   "daily_scores": {
@@ -640,6 +651,7 @@
     "2026-11-22": 100,
     "2026-11-23": 100,
     "2026-11-24": 100,
-    "2026-11-25": 100
+    "2026-11-25": 100,
+    "2026-11-26": 100
   }
 }
